@@ -71,5 +71,20 @@
        <string>UIInterfaceOrientationLandscapeLeft</string>
        <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
+<!-- Apple Privacy Permissions -->
+	<key>NSCameraUsageDescription</key>
+	<string>Shiba Chat requires camera access for video calls and status updates.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Shiba Chat requires microphone access for audio and video calls.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Shiba Chat requires photo library access to share images.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Shiba Chat requires contacts access to find your friends.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Shiba Chat needs location access to share live tracking.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Shiba Chat needs location access for live tracking.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Shiba Chat requires FaceID to unlock Incognito Space.</string>
 </dict>
 </plist>
