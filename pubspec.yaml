@@ -30,7 +30,6 @@ dependencies:
   scratcher: ^2.5.0
   local_auth: ^2.1.8
   audioplayers: ^6.1.0
-  firebase_crashlytics: ^4.3.10
 
 dev_dependencies:
   flutter_test:
