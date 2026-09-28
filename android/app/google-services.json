@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395147060699",
+    "project_id": "shiba-app-f0248",
+    "storage_bucket": "shiba-app-f0248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395147060699:android:7d24ca6b82de3d803db3fe",
+        "android_client_info": {
+          "package_name": "com.example.itr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIT2t6duymxc7euH2FhbGUlEUdVR-sl5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
