@@ -85,4 +85,16 @@ class DefaultFirebaseOptions {
     storageBucket: 'shiba-app-f0248.firebasestorage.app',
     measurementId: 'G-QW5S6WJGD0',
   );
+    <!-- Google Sign-in URL Scheme -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.123456789-abcdefg</string>
+			</array>
+		</dict>
+	</array>
 }
